@@ -1,0 +1,8 @@
+{
+  "name": "Nirvor (নির্ভর)",
+  "description": "জরুরি মুহূর্তে আপনার ভরসা। একটি ওয়ান-স্টপ ইমার্জেন্সি এবং লাইফস্টাইল অ্যাপ।",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
